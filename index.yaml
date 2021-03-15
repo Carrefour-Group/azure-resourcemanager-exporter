@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  azure-resourcemanager-exporter:
+  - apiVersion: v1
+    appVersion: 20.11.1
+    created: "2021-03-15T15:04:32.464970809Z"
+    description: Prometheus Azure Resource Manager Exporter
+    digest: 338c77997075ef5a64912e562edd82b33086882dd81282e24bc5e427fb361334
+    name: azure-resourcemanager-exporter
+    urls:
+    - https://github.com/Carrefour-Group/azure-resourcemanager-exporter/releases/download/azure-resourcemanager-exporter-20.11.1/azure-resourcemanager-exporter-20.11.1.tgz
+    version: 20.11.1
+generated: "2021-03-15T15:04:32.464975409Z"
